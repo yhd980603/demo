@@ -37,7 +37,7 @@ public class OrderController {
     @Autowired
     private VideoOrderService videoOrderService;
 
-    //模拟登录哦
+    //模拟登录
 //    @GetMapping("/add")
 //    public JsonData saveOrder(){
 //        return JsonData.buildSuccess("下单成功");
